@@ -24,8 +24,10 @@ Building and tinkering across web, game, and systems projects — from full-stac
 
 ### Featured Projects
 
+<div style="display: flex;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />  
+</div>
 **[rase](https://github.com/fdevinar/rase)** — Resource Allocation Simulation Engine
 Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL for data persistence, and a React frontend.
 
