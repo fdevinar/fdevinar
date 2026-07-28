@@ -24,16 +24,17 @@ Building and tinkering across web, game, and systems projects — from full-stac
 
 ### Featured Projects
 
+
+**[rase](https://github.com/fdevinar/rase)** — Resource Allocation Simulation Engine
+Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL for data persistence, and a React frontend.
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />  
 </div>
-**[rase](https://github.com/fdevinar/rase)** — Resource Allocation Simulation Engine
-Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL for data persistence, and a React frontend.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 **[boogie-of-the-deep](https://github.com/fdevinar/boogie-of-the-deep)** — Text/image & sound adventure game
-Built in React. You explore a ship, collecting items and interacting with your surroundings as the story unfolds.
+Built in React. You explore a ship, collecting items and interacting with your surroundings as the story unfolds. 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
 ---
 
