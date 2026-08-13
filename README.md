@@ -17,13 +17,13 @@
 
 ---
 
-### About
+### 👋 About
 
 Fullstack developer building across web, systems , and games — simulation engine, narrative game, experiments and fun learning tools and projects. Currently deepening my React and Node/Express skills through hands-on project Slapshot-Stash.
 
 ---
 
-### In Progress
+### 🚧 In Progress
 
 **[slapshot-stash](https://github.com/fdevinar/slapshot-stash)** — NHL Card Collection Manager *(early stage)*
 A personal hockey card collection manager connecting to the NHL API for live data. Currently integrating the API, with database structuring up next.
@@ -34,7 +34,7 @@ A personal hockey card collection manager connecting to the NHL API for live dat
 
 ---
 
-### Featured Projects
+### ⭐ Featured Projects
 
 **[rase](https://github.com/fdevinar/rase)** — Resource Allocation Simulation Engine
 Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL for data persistence, and a React frontend.
