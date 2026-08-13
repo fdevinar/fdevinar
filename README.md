@@ -49,7 +49,7 @@ Built in React. You explore a ship, collecting items and interacting with your s
 
 ---
 
-### Other Projects
+### 📂 Other Projects
 
 | Project | Stack | Last Updated | Description |
 |---|---|---|---|
