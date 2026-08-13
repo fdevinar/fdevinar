@@ -23,6 +23,17 @@ Fullstack developer building across web, systems , and games — simulation engi
 
 ---
 
+### In Progress
+
+**[slapshot-stash](https://github.com/fdevinar/slapshot-stash)** — NHL Card Collection Manager *(early stage)*
+A personal hockey card collection manager connecting to the NHL API for live data. Currently integrating the API, with database structuring up next.
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+---
+
 ### Featured Projects
 
 **[rase](https://github.com/fdevinar/rase)** — Resource Allocation Simulation Engine
@@ -34,17 +45,6 @@ Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL
 **[boogie-of-the-deep](https://github.com/fdevinar/boogie-of-the-deep)** — Text/image & sound adventure game
 Built in React. You explore a ship, collecting items and interacting with your surroundings as the story unfolds.
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-
----
-
-### In Progress
-
-**[slapshot-stash](https://github.com/fdevinar/slapshot-stash)** — NHL Card Collection Manager *(early stage)*
-A personal hockey card collection manager connecting to the NHL API for live data. Currently integrating the API, with database structuring up next.
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
 ---
