@@ -53,12 +53,12 @@ Built in React. You explore a ship, collecting items and interacting with your s
 
 | Project | Stack | Last Updated | Description |
 |---|---|---|---|
-| [phaser-toy](https://github.com/fdevinar/phaser-toy) | CSS | Jan 2026 | Simple Phaser.js project |
-| [tudoom](https://github.com/fdevinar/tudoom) | JavaScript | Aug 2025 | A TODO app styled after Doom's design and sound effects |
-| [mindsculptor](https://github.com/fdevinar/mindsculptor) | JavaScript | Jul 2025 | A simple character creation game |
+| [phaser-toy](https://github.com/fdevinar/phaser-toy) | JS/Phaser | Jan 2026 | Simple Phaser.js project |
+| [tudoom](https://github.com/fdevinar/tudoom) | React | Aug 2025 | A TODO app styled after Doom's design and sound effects |
+| [mindsculptor](https://github.com/fdevinar/mindsculptor) | React | Jul 2025 | A simple character creation game |
 | [Target-or-Toast](https://github.com/fdevinar/Target-or-Toast) | Swift | Mar 2023 | Draft Swift app |
-| [tic-tac-toe](https://github.com/fdevinar/tic-tac-toe) | TypeScript | Mar 2023 | Angular Tic Tac Toe |
-| [training](https://github.com/fdevinar/training) | HTML | Sep 2022 | HTML, CSS, JS, Node, Express, Mongo, Vue training |
+| [tic-tac-toe](https://github.com/fdevinar/tic-tac-toe) | Angular | Mar 2023 | Angular Tic Tac Toe |
+| [training](https://github.com/fdevinar/training) | Web Basics | Sep 2022 | HTML, CSS, JS, Node, Express, Mongo, Vue training |
 | [Playground](https://github.com/fdevinar/Playground) | Python | Sep 2022 | Python scripts |
 | [iron-tracker](https://github.com/fdevinar/iron-tracker) | JavaScript | Jun 2020 | Gym tracking and stats app |
 | [microblog](https://github.com/fdevinar/microblog) | Python | Mar 2019 | Flask microblog tutorial |
