@@ -25,7 +25,7 @@ Fullstack developer building across web, systems , and games — simulation engi
 ### 🚧 In Progress
 
 **[slapshot-stash](https://github.com/fdevinar/slapshot-stash)** — NHL Card Collection Manager *(early stage)*
-A personal hockey card collection manager connecting to the NHL API for live data. Currently integrating the API, with database structuring up next.
+A personal hockey card collection manager connecting to the NHL API for live data.
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
