@@ -43,7 +43,7 @@ Full-stack app with a Java + Spring Boot backend exposing a REST API, PostgreSQL
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
 **[boogie-of-the-deep](https://github.com/fdevinar/boogie-of-the-deep)** — Text/image & sound adventure game
-Built in React. You explore a ship, collecting items and interacting with your surroundings as the story unfolds.
+built in React. You explore a ship, collecting items and interacting with your surroundings as the story unfolds.
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
